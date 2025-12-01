@@ -1,0 +1,512 @@
+id,receipt_id,product_name,quantity,weight,price,category
+168,13,oliven,,,1.19,Gemüse
+169,13,getrocknete tomaten,,,1.49,Gemüse
+170,13,rucola,,,1.69,Gemüse
+171,13,passierte tomaten,,,0.79,Sonstiges
+172,13,tomatenmark,2.0,,1.78,Sonstiges
+173,13,gouda,6.0,,10.74,Käse
+174,13,dinkelmehl,2.0,,2.38,Müsliregal
+175,13,seitanwurst,4.0,,11.96,Fleischersatz
+176,13,seitan,2.0,,5.98,Fleischersatz
+177,13,hirtenkäse,,,1.99,Käse
+178,13,hefe,,,1.29,Müsliregal
+179,13,zwiebeln,,0.57,2.0,Gemüse
+180,13,paprika,,,1.99,Gemüse
+181,13,tomaten,,,2.69,Gemüse
+182,14,bananen,,0.85,2.13,Obst
+183,14,bananen,,0.6,1.5,Obst
+184,14,bananen,,0.8,1.99,Obst
+189,16,roggenmehl,2.0,,3.98,Müsliregal
+190,16,weizenmehl,4.0,,3.96,Müsliregal
+191,16,flohsamenschalen,2.0,,13.98,Müsliregal
+192,16,dinkelmehl,,,1.99,Müsliregal
+193,17,bionella,,,3.99,Brotaufstrich
+194,17,joghurt,2.0,,3.18,Milchprodukte
+195,17,milch,2.0,,3.78,Milchprodukte
+196,17,gurken,,,1.99,Gemüse
+197,17,joghurt,,,1.49,Milchprodukte
+198,17,birnen,,0.664,3.98,Obst
+199,17,5-korn-flocken,,,1.99,Müsliregal
+200,17,körniger frischkäse,,,1.49,Milchprodukte
+201,17,frischkäse,,,1.49,Milchprodukte
+202,17,frischkäse,,,1.59,Milchprodukte
+203,17,bananen,,1.08,2.69,Obst
+204,17,birnen,,0.198,1.19,Obst
+205,17,zitronen,,0.25,1.52,Obst
+206,17,äpfel,,0.72,2.87,Obst
+207,18,bananen,,0.918,2.29,Obst
+208,18,kohlrabi,,,1.99,Gemüse
+209,18,birnen,,0.68,4.07,Obst
+210,18,gurken,,,1.99,Gemüse
+211,19,seife,,,0.65,Haushaltsmittel
+212,19,seife,,,0.65,Haushaltsmittel
+213,20,käse,,,2.99,Käse
+214,20,schmand,,,1.19,Milchprodukte
+215,20,knoblauch,,,1.19,Gemüse
+216,21,paprika,,0.49,2.47,Gemüse
+217,21,karotten,,0.73,1.1,Gemüse
+218,21,tofu,,,1.99,Fleischersatz
+219,21,kartoffeln,,,2.22,Gemüse
+220,21,zwiebeln,3.0,,5.37,Gemüse
+221,21,kohlrabi,,,0.69,Gemüse
+222,21,porree,4.0,,3.4,Gemüse
+223,21,getrocknete tomaten,2.0,,3.98,Gemüse
+224,21,soja granulat,4.0,,11.16,Fleischersatz
+225,21,mais,2.0,,1.98,Gemüse
+226,22,bananen,,2.29,5.72,Obst
+227,22,meerrettich apfel,,,3.49,Brotaufstrich
+228,22,äpfel,,1.96,7.84,Obst
+229,22,camembert,2.0,,4.58,Käse
+230,22,franzäsischer brie,,0.12,1.79,Käse
+231,22,comté,,0.18,6.64,Käse
+232,22,bergkäse,,0.28,4.56,Käse
+233,22,gouda,,0.37,5.27,Käse
+234,22,uriger allgäuer,,0.21,5.02,Käse
+235,23,hafer-drink,8.0,,10.32,Sonstiges
+236,23,karottensaft,,,1.29,Sonstiges
+237,23,leberwurst,,,3.49,Fleischersatz
+238,23,leberwurst,,,3.49,Fleischersatz
+239,23,ziegenkäse,,0.13,4.02,Käse
+240,23,scamorza,,0.2,5.15,Käse
+241,23,zucchini,,0.51,3.05,Gemüse
+242,23,karotten,,0.318,0.95,Gemüse
+243,23,zitronen,,0.18,1.1,Obst
+244,23,gnocchi,,,2.99,Sonstiges
+245,24,milch,,,1.89,Milchprodukte
+246,24,buttermilch,,,1.59,Milchprodukte
+247,24,butter,,,3.69,Milchprodukte
+248,24,kohlrabi,,,1.49,Gemüse
+249,24,zwiebeln,,0.05,0.2,Gemüse
+250,24,birnen,,0.83,3.32,Obst
+251,25,buchweizenbrot,,,4.99,Brot
+252,25,karottensaft,,,1.89,Sonstiges
+253,25,saft,,,2.69,Sonstiges
+254,25,gurken,,,1.99,Gemüse
+255,25,zucchini,,0.5,3.03,Gemüse
+256,26,fladenbrot,,,1.89,Brot
+257,26,krautsalat,,,1.49,Sonstiges
+258,26,tomaten,,0.46,1.38,Gemüse
+259,26,gurken,,,1.49,Gemüse
+260,27,korn an korn,,,6.19,Brot
+261,27,roggenbrot,,,4.19,Brot
+262,27,hamburger kräftiges,,,5.29,Brot
+263,27,parmigiano,2.0,,7.38,Käse
+264,27,tamari,,,8.99,Sonstiges
+265,27,camembert,,,2.29,Käse
+266,27,bergkäse,,0.24,3.86,Käse
+267,27,franzäsischer brie,,0.14,2.21,Käse
+268,27,gourmet superieu,,0.25,5.52,Käse
+269,27,bärlauch tomate,,,3.49,Brotaufstrich
+270,27,gouda,,0.23,5.34,Käse
+271,27,vegane lyoner,,,1.89,Fleischersatz
+272,27,vegane lyoner,,,1.89,Fleischersatz
+273,28,weintrauben,,,7.0,Obst
+274,28,ziegenkäse,,,2.8,Käse
+275,28,mandeln,,,8.0,Müsliregal
+276,29,sojamilch,6.0,,6.9,Sonstiges
+277,29,seitanwurst,2.0,,5.98,Fleischersatz
+278,29,nudeln,,,3.39,Sonstiges
+279,29,zwiebeln,,,1.99,Gemüse
+280,29,tofu,,,2.19,Fleischersatz
+281,29,koriander,,,2.19,Gemüse
+282,30,rosenkohl,,,1.0,Gemüse
+283,30,radieschen,,,0.79,Gemüse
+284,31,milch,2.0,,3.78,Milchprodukte
+285,31,joghurt,,,1.59,Milchprodukte
+286,32,kernbeißer,2.0,,1.98,Brot
+287,32,brötchen,,,1.29,Brot
+288,32,mohnbrötchen,,,0.89,Brot
+289,32,brötchen,,,0.99,Brot
+290,32,frischkäse,,,1.59,Milchprodukte
+291,32,frischkäse,,,1.49,Milchprodukte
+292,32,charmeux,,0.17,4.01,Käse
+293,33,hefe,,,1.29,Müsliregal
+294,33,weizenmehl,2.0,,1.18,Müsliregal
+295,33,tomatenmark,2.0,,1.78,Sonstiges
+296,33,passierte tomaten,,,0.65,Sonstiges
+297,33,mozzarella,3.0,,5.37,Käse
+298,33,getrocknete tomaten,,,1.49,Gemüse
+299,33,oliven,,,1.19,Gemüse
+300,33,schmand,,,1.29,Milchprodukte
+301,33,quark,,,1.29,Milchprodukte
+302,33,seitanwurst,2.0,,5.98,Fleischersatz
+303,33,ziegenkäse,,,1.99,Käse
+304,33,zwiebeln,,,3.49,Gemüse
+305,33,gouda,3.0,,5.37,Käse
+306,33,seitan,,,2.99,Fleischersatz
+307,33,champignons,,,2.49,Gemüse
+308,33,tomaten,,,2.99,Gemüse
+309,33,rucola,,,1.0,Gemüse
+310,33,paprika,,,1.0,Gemüse
+311,34,klostertal,,,5.18,Käse
+312,34,hergkräufer rebel,,,5.43,Käse
+313,34,prima donna,,,8.5,Käse
+314,34,bananen,,1.84,4.59,Obst
+315,34,birnen,,0.75,3.73,Obst
+316,34,äpfel,,1.0,4.0,Obst
+317,35,buttermilch,,,0.69,Milchprodukte
+318,35,camembert,,,3.89,Käse
+319,35,schokocreme,,,6.99,Brotaufstrich
+320,35,nudeln,,,1.99,Sonstiges
+321,35,frischkäse,,,1.59,Milchprodukte
+322,35,waffeln,,,0.99,Sonstiges
+323,35,pesto,,,2.29,Sonstiges
+324,36,toilletenpapier,2.0,,7.58,Haushaltsmittel
+325,36,erkältungstee,,,1.35,Sonstiges
+326,36,vegane pastete,,,1.99,Brotaufstrich
+336,37,weintrauben,,1.05,6.34,Obst
+337,37,leberwurst,,,3.29,Fleischersatz
+338,37,käsegriller,,,3.79,Fleischersatz
+339,38,jubiläumsbrot,,,3.39,Brot
+340,38,keimling,,,6.19,Brot
+341,38,bananen,,0.84,2.08,Obst
+342,38,äpfel,,0.81,3.25,Obst
+343,38,birnen,,0.46,2.31,Obst
+344,39,kartoffeln,,1.5,2.99,Gemüse
+345,39,kartoffeln,,1.5,2.99,Gemüse
+346,39,emmentaler,,0.27,4.26,Käse
+347,39,emmentaler,,0.28,4.5,Käse
+348,39,sahne,2.0,,1.98,Milchprodukte
+349,39,creme fraiche,2.0,,2.3,Milchprodukte
+350,39,feta,4.0,,11.96,Käse
+351,40,weizenmehl,2.0,,1.98,Müsliregal
+352,40,birnen,,0.57,2.83,Obst
+353,40,gurken,,,1.99,Gemüse
+354,40,joghurt,2.0,,2.98,Milchprodukte
+355,40,dinkelmehl,,,1.39,Müsliregal
+356,40,roggenmehl,,,1.99,Müsliregal
+357,40,joghurt,,,1.59,Milchprodukte
+358,40,bananen,,0.56,1.39,Obst
+359,41,äpfel,,0.81,1.62,Obst
+360,41,gurken,,,1.29,Gemüse
+361,41,lauchzwiebel,,,0.99,Gemüse
+362,41,paprika,,0.38,1.5,Gemüse
+363,41,rosenkohl,,1.82,5.44,Gemüse
+364,41,salat,,,1.49,Gemüse
+365,42,kohlbrot,,,5.89,Brot
+366,42,butter,,,2.89,Milchprodukte
+367,42,quark,,,1.19,Milchprodukte
+368,42,toilletenpapier,,,3.79,Haushaltsmittel
+369,42,käse,,,2.49,Käse
+370,42,kürbiskerne,,,3.49,Müsliregal
+371,42,sesam,,,3.49,Müsliregal
+372,42,müllbeutel,2.0,,2.98,Haushaltsmittel
+373,42,quark,,,1.69,Milchprodukte
+374,42,joghurt,,,1.29,Milchprodukte
+375,43,milch,,,1.99,Milchprodukte
+376,43,buttermilch,,,1.59,Milchprodukte
+377,43,knoblauch,,0.01,1.19,Gemüse
+378,43,scamorza,,0.2,5.1,Käse
+379,43,uriger allgäuer,,0.19,4.35,Käse
+380,43,grienkenschmied,,0.15,4.05,Käse
+381,43,gouda,,0.35,4.8,Käse
+382,43,oliven,,,2.79,Gemüse
+383,43,kohlrabi,2.0,,3.98,Gemüse
+384,43,bananen,,0.95,2.36,Obst
+385,44,seitanwurst,3.0,,8.97,Fleischersatz
+386,45,milch,2.0,,3.98,Milchprodukte
+387,45,dinkel flakes,,,3.78,Müsliregal
+388,45,toilletenpapier,,,2.99,Haushaltsmittel
+389,45,toilletenpapier,,,3.39,Haushaltsmittel
+390,45,kichererbsen,,,3.98,Gemüse
+391,45,birnen,,0.7,2.81,Obst
+392,45,deichkäse,,0.2,4.51,Käse
+393,45,lamour rouge,,0.1,3.08,Käse
+394,45,parmigiano,,0.13,5.02,Käse
+395,45,grienkenschmied,,0.22,5.89,Käse
+396,45,nordseekäse,,0.2,6.37,Käse
+397,46,getrocknete tomaten,,,1.49,Gemüse
+398,46,tomatenmark,2.0,,1.9,Sonstiges
+399,46,champignons,,0.18,1.62,Gemüse
+400,46,chili schoten,,,1.39,Gemüse
+401,46,quark,,,1.29,Milchprodukte
+402,46,tofu,,,2.19,Fleischersatz
+403,46,schmand,,,1.29,Milchprodukte
+404,46,passierte tomaten,,,0.65,Sonstiges
+405,46,koriander,,,1.49,Gemüse
+406,46,rucola,,,1.69,Gemüse
+407,46,planted chicken,,,2.99,Fleischersatz
+408,46,oliven,,,1.19,Gemüse
+409,46,artischocken,,,2.49,Gemüse
+410,46,tomaten,,,2.99,Gemüse
+411,46,eier,,,3.79,Sonstiges
+412,46,lauchzwiebel,,,3.99,Gemüse
+413,46,kiwi,5.0,,1.45,Obst
+414,46,paprika,,,3.69,Gemüse
+415,46,gouda,5.0,,8.95,Käse
+416,46,mozzarella,,,1.19,Käse
+417,47,hirtenkäse,,,1.99,Käse
+418,47,dinkelmehl,2.0,,2.38,Müsliregal
+419,48,blumenkohl,,,3.99,Gemüse
+420,49,kartoffeln,1.5,,2.99,Gemüse
+421,49,weißkohl,,1.72,5.14,Gemüse
+422,50,frikadellen,2.0,,5.98,Fleischersatz
+423,50,sahne,2.0,,1.78,Milchprodukte
+424,50,erbsen,,,2.39,Gemüse
+425,51,weintrauben,,0.92,6.43,Obst
+426,51,frikadellen,,,2.99,Fleischersatz
+427,51,avocado,,,1.59,Gemüse
+428,52,weißkohl,,2.2,6.6,Gemüse
+429,52,beeren müsli,2.0,,3.99,Müsliregal
+430,52,joghurt,2.0,,3.18,Milchprodukte
+431,52,margarine,2.0,,3.58,Milchprodukte
+432,52,butter,2.0,,6.98,Milchprodukte
+433,52,soja schnetzel,2.0,,3.98,Fleischersatz
+434,52,soja schnetzel,4.0,,7.96,Fleischersatz
+435,53,berliner landbrot,,,4.6,Brot
+436,54,oliven,,,3.29,Gemüse
+437,54,bananen,,1.05,2.51,Obst
+438,54,birnen,,0.64,3.18,Obst
+439,55,müllbeutel,2.0,,2.98,Haushaltsmittel
+440,55,schwamm,,,0.99,Haushaltsmittel
+441,55,topfreiniger,,,0.3,Haushaltsmittel
+442,56,blumenkohl,2.0,,7.98,Gemüse
+443,56,kartoffeln,,,7.98,Gemüse
+444,56,gurken,4.0,,5.69,Gemüse
+445,56,patersilie,,,1.49,Gemüse
+446,57,eier,,,3.79,Sonstiges
+447,57,tofu,,,2.19,Fleischersatz
+448,58,korn an korn,,,6.19,Brot
+449,58,kernbrot,,,4.79,Brot
+450,58,dinkel hafter brot,,,4.99,Brot
+451,58,pesto basilico,,,1.99,Sonstiges
+452,58,milch,,,1.99,Milchprodukte
+453,58,pesto rosso,,,1.99,Sonstiges
+454,58,emmentaler,,0.2,3.1,Käse
+455,58,gourmet superieu,,0.2,4.53,Käse
+456,58,roguefort,,0.17,8.17,Käse
+457,58,schwarzer wenzel,,0.22,5.26,Käse
+458,58,ziegengouda,,0.29,7.67,Käse
+459,58,pecorino,,0.23,7.18,Käse
+460,58,gouda,,0.2,3.0,Käse
+461,59,parmigiano,,,4.99,Käse
+462,60,ingwer,,0.13,0.69,Gemüse
+463,60,lauchzwiebel,,,0.99,Gemüse
+464,60,karotten,,0.5,1.01,Gemüse
+465,60,paprika,,0.43,1.71,Gemüse
+466,60,tomaten,,1.15,4.59,Gemüse
+467,60,zwiebeln,,2.38,4.74,Gemüse
+468,61,landtiet,,,5.69,Brot
+469,61,mohnbrötchen,,,0.89,Brot
+470,61,brötchen,,,0.99,Brot
+471,61,brötchen,,,1.29,Brot
+472,61,leberwurst,,,3.49,Brotaufstrich
+473,61,schmalz,,,4.99,Brotaufstrich
+474,61,bananen,,0.66,1.63,Obst
+475,61,birnen,,0.72,3.57,Obst
+476,62,öl,,,3.99,Sonstiges
+477,62,buillon,,,3.49,Sonstiges
+478,62,butter,,,2.89,Milchprodukte
+479,62,camembert,,,3.89,Käse
+480,63,camembert,,,2.29,Käse
+481,63,äpfel,,0.29,1.14,Obst
+482,63,toastbrot,,,2.29,Brot
+483,63,hafer-drink,8.0,,10.32,Sonstiges
+484,64,milch,2.0,,3.98,Milchprodukte
+485,64,scharfe käthe,2.0,,7.98,Brotaufstrich
+486,64,joghurt,3.0,,4.77,Milchprodukte
+487,64,5-korn-flocken,2.0,,3.98,Müsliregal
+488,64,linsen spirelli,2.0,,3.98,Sonstiges
+489,64,bananen,,2.08,5.19,Obst
+490,64,roguefort,,0.13,6.38,Käse
+491,64,roguefort,,0.13,5.83,Käse
+492,64,schwarzer wenzel,,0.19,4.24,Käse
+493,64,camembert,,,4.54,Käse
+494,64,walnüsse,2.0,,3.58,Müsliregal
+495,65,soja,,,3.49,Fleischersatz
+496,65,emmentaler,2.0,,4.98,Käse
+497,65,mozzarella,,,2.29,Käse
+498,65,veganer käse,,,2.49,Käse
+501,66,karotten,,,0.99,Gemüse
+502,66,salat,,,1.49,Gemüse
+503,66,salat,,,1.49,Gemüse
+504,66,leberwurst,,,1.99,Fleischersatz
+505,66,hirtenkäse,2.0,,3.78,Käse
+506,66,zitronen,,,1.39,Obst
+507,66,weintrauben,,,1.99,Obst
+508,66,zwiebeln,,,1.15,Gemüse
+509,66,knoblauch,,,1.49,Gemüse
+510,66,tomaten,,,1.9,Gemüse
+511,66,gurken,2.0,,1.32,Gemüse
+512,66,sahne,2.0,,2.18,Milchprodukte
+513,66,linguine,4.0,,5.56,Sonstiges
+514,66,linguine,,,2.49,Sonstiges
+515,66,tomatenmark,5.0,,4.45,Sonstiges
+516,66,pesto genovese,,,1.99,Sonstiges
+517,66,kapern,,,2.97,Gemüse
+518,66,oliven,,,1.19,Gemüse
+519,66,chili schoten,,,1.09,Gemüse
+520,66,passierte tomaten,5.0,,2.95,Sonstiges
+521,67,sahne,2.0,,5.58,Milchprodukte
+522,67,buillon,,,3.59,Sonstiges
+523,67,orangen,,,1.49,Obst
+524,67,kartoffeln,,,3.99,Gemüse
+525,67,orangen,,,3.79,Obst
+526,67,karotten,,,2.49,Gemüse
+527,67,sellerie,,,1.49,Gemüse
+528,67,porree,,0.37,1.11,Gemüse
+529,67,pane rustico,,,1.49,Brot
+530,67,pane rustico,,,1.49,Brot
+531,67,knackwurst,3.0,,7.77,Fleischersatz
+532,67,tofu wurst,3.0,,7.38,Fleischersatz
+533,67,cantuccini,,,"7,58",Sonstiges
+534,68,brot,,,6.19,Brot
+535,69,salz,,,0.8,Sonstiges
+536,69,öl,,,3.99,Sonstiges
+537,69,parkett bodenreiniger,,,1.49,Haushaltsmittel
+538,69,buillon,,,3.49,Sonstiges
+539,69,schoko müsli,,,3.19,Müsliregal
+540,69,cornflakes,2.0,,3.98,Müsliregal
+541,69,milch,,,1.98,Milchprodukte
+542,69,milch,,,1.79,Milchprodukte
+543,69,reiniger,3.0,,6.87,Haushaltsmittel
+544,69,dinkel frischbrot,3.0,,5.97,Brot
+545,69,frischkäse,,,1.49,Milchprodukte
+546,69,feta,,,2.99,Käse
+547,69,margarine,,,2.29,Milchprodukte
+548,69,quark,,,0.99,Milchprodukte
+549,69,eier,,,3.39,Sonstiges
+550,69,kürbis,3.0,,10.47,Gemüse
+551,69,tee,,,2.39,Sonstiges
+552,70,zwiebelwurst,,,2.59,Fleischersatz
+553,70,oliven,3.0,,3.57,Gemüse
+554,71,landtiet,,,5.69,Brot
+555,71,dinkel hafter brot,,,4.99,Brot
+556,71,joghurt,2.0,,3.18,Milchprodukte
+557,71,butter,2.0,,5.98,Milchprodukte
+558,71,butter,3.0,,7.38,Milchprodukte
+559,71,gourmet superieu,,0.24,5.15,Käse
+560,71,comté,,0.21,7.72,Käse
+561,71,naturtaler,,0.2,4.14,Käse
+562,71,birnen,,1.03,4.11,Obst
+563,71,äpfel,,0.84,3.36,Obst
+564,71,zwiebeln,,,1.98,Gemüse
+565,71,knoblauch,,,0.95,Gemüse
+566,71,sahne,,,1.19,Milchprodukte
+567,71,oliven,,,3.29,Gemüse
+568,72,niebüller knust,3.0,,19.47,Brot
+569,72,keimling,,,6.19,Brot
+570,72,gurken,2.0,,3.98,Gemüse
+571,72,milch,2.0,,3.98,Milchprodukte
+572,72,joghurt,4.0,,6.36,Milchprodukte
+573,72,kohlrabi,,,1.99,Gemüse
+574,72,bananen,,1.9,4.71,Obst
+575,72,pesto rosso,,,1.99,Sonstiges
+576,72,pesto basilico,,,1.99,Sonstiges
+577,72,weichkäse,2.0,,4.18,Käse
+578,72,bergkäse,,0.21,4.92,Käse
+579,72,gouda,,0.6,11.27,Käse
+580,72,ziegengouda,,0.51,13.93,Käse
+581,73,semmelbrösel,3.0,,2.37,Müsliregal
+582,73,sellerie,,0.7,2.74,Gemüse
+583,73,bionella,,,3.99,Brotaufstrich
+584,73,kartoffeln,,1.5,4.99,Gemüse
+585,73,sellerie,,1.33,5.3,Gemüse
+586,73,gurken,,,1.99,Gemüse
+587,73,salat,,,2.49,Gemüse
+588,73,eier,2.0,,8.58,Sonstiges
+589,74,joghurt,3.0,,4.47,Milchprodukte
+590,74,haselnüsse,,,5.58,Müsliregal
+591,74,leinsamen,,,1.99,Müsliregal
+592,74,mandeln,,,5.78,Müsliregal
+593,74,5-korn-flocken,,,1.99,Müsliregal
+594,74,rosinen,2.0,,7.38,Müsliregal
+595,74,studentenfutter,4.0,,18.76,Müsliregal
+596,74,lebkuchen,,,3.79,Sonstiges
+597,75,korn an korn,,,5.89,Brot
+598,75,niebüller knust,,,6.79,Brot
+599,75,bananen,,0.86,2.13,Obst
+600,75,schokocreme,,,6.99,Brotaufstrich
+601,76,niebüller knust,,,6.79,Brot
+602,76,karotten,,0.2,0.59,Gemüse
+603,76,kohlrabi,,,1.99,Gemüse
+604,76,butter,2.0,,7.38,Milchprodukte
+605,76,milch,,,1.99,Milchprodukte
+606,76,joghurt,3.0,,5.07,Milchprodukte
+607,76,mandeln,3.0,,8.67,Müsliregal
+608,76,frischkäse,,,2.19,Milchprodukte
+609,76,gurken,,,1.49,Gemüse
+610,76,bananen,,1.08,2.7,Obst
+611,76,uriger hannes,,0.28,8.31,Käse
+612,77,nudeln,,,1.69,Sonstiges
+613,77,joghurt,2.0,,2.98,Milchprodukte
+614,77,5-korn-flocken,,,1.99,Müsliregal
+615,77,getrocknete tomaten,2.0,,6.98,Sonstiges
+616,77,quinoa,,,6.98,Müsliregal
+617,77,parmigiano,,,3.69,Käse
+618,78,gartenbedarf,,,7.99,Haushaltsmittel
+619,79,joghurt,2.0,,3.38,Milchprodukte
+620,79,milch,2.0,,2.5,Milchprodukte
+621,79,kohlrabi,,,1.09,Gemüse
+622,79,bananen,,1.02,1.83,Obst
+623,80,wraps,3.0,,3.87,Sonstiges
+624,81,taschentücher,,,2.49,Haushaltsmittel
+625,81,vegane wurst,,,1.19,Brotaufstrich
+626,81,farmersalat,,,1.49,Brotaufstrich
+627,81,kümmel,,,2.99,Sonstiges
+628,81,salz,,,0.75,Sonstiges
+629,81,dinkel flakes,2.0,,4.38,Müsliregal
+630,81,walnüsse,,,2.59,Müsliregal
+631,81,veganer schinken,,,1.59,Brotaufstrich
+632,81,kiwi,4.0,,3.96,Obst
+633,81,gurken,,,1.09,Gemüse
+634,81,paprika,,,2.29,Gemüse
+635,82,hafer-drink,8.0,,10.32,Sonstiges
+636,82,kartoffeln,,1.5,4.99,Gemüse
+637,82,schnittlauch,,,1.89,Gemüse
+638,82,sahne,,,3.29,Milchprodukte
+639,82,margarine,2.0,,3.58,Milchprodukte
+640,82,karottensaft,,,1.29,Sonstiges
+641,82,porree,,0.93,5.57,Gemüse
+642,82,milch,,,1.79,Milchprodukte
+643,82,charneux,,0.17,3.87,Käse
+644,82,camembert,,,2.29,Käse
+645,82,uriger hannes,,0.16,4.87,Käse
+646,82,ziegenkäse,,0.18,2.99,Käse
+647,82,karotten,,0.63,1.88,Gemüse
+648,82,toastbrot,,,2.59,Brot
+649,82,rote beete,,0.54,1.62,Gemüse
+650,83,niebüller knust,,,6.79,Brot
+651,83,sonnenblumkernbrot,,,2.59,Brot
+652,83,vegane lyoner,,,1.89,Brotaufstrich
+653,83,franzäsischer brie,,0.1,1.21,Käse
+654,83,franzäsischer brie,,0.1,1.16,Käse
+655,83,schwarzer wenzel,,0.16,3.7,Käse
+656,83,tilsiter,,0.16,3.02,Käse
+657,83,gouda,,0.19,2.67,Käse
+658,83,camembert,,,2.29,Käse
+659,83,weichkäse,,,2.29,Käse
+660,83,äpfel,,1.6,6.4,Obst
+661,83,kiwi,4.0,,3.16,Obst
+662,83,bananen,,1.86,4.65,Obst
+663,83,gurken,,,1.99,Gemüse
+664,83,toastbrot,,,2.29,Brot
+665,84,roggenmehl,,,2.69,Müsliregal
+666,84,dinkelmehl,,,2.29,Müsliregal
+667,84,weizenmehl,,,1.99,Müsliregal
+668,84,joghurt,4.0,,6.76,Milchprodukte
+669,84,knoblauch,,,1.99,Gemüse
+670,84,burger,,,3.99,Fleischersatz
+671,84,filet huhn,,,4.99,Fleischersatz
+672,84,gurken,4.0,,6.76,Gemüse
+673,84,paprika,,,1.35,Gemüse
+674,84,emmentaler,4.0,,7.96,Käse
+675,84,zwiebeln,2.0,,4.96,Gemüse
+676,84,passierte tomaten,3.0,,1.95,Sonstiges
+677,84,reis,,,3.29,Sonstiges
+678,84,mais,2.0,,3.58,Gemüse
+679,85,milch,2.0,,2.5,Milchprodukte
+680,85,parmigiano,,,3.29,Käse
+681,85,erdnussbutter,2.0,,4.38,Brotaufstrich
+682,85,margarine,,,1.99,Milchprodukte
+683,85,seitanwurst,3.0,,8.97,Fleischersatz
+684,85,reis,,,2.79,Sonstiges
+685,85,bananen,,1.1,1.96,Obst
+686,85,milch,2.0,,3.5,Milchprodukte
+687,86,zwiebeln,,0.58,2.03,Gemüse
+688,86,rote beete,,0.31,0.92,Gemüse
+689,86,kürbis,,0.72,2.15,Gemüse
+690,86,koriander,,,1.99,Sonstiges
+691,86,garam masala,,,2.99,Sonstiges
+692,86,kartoffeln,,1.5,4.99,Gemüse
+693,87,berliner landbrot,,,4.9,Brot
